@@ -1,0 +1,16 @@
+.Title{
+    text-align:center;
+    width = 100%;
+}
+
+.flex-element {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.info{
+    margin :auto;
+    width: 25%;
+}
